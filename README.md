@@ -1,3 +1,3 @@
-# travelProject
-Applied the knowledge of HTML and CSS in this Project
+# Travel-Destinations
+Applied the knowledge of HTML and pure CSS in this Project
 
